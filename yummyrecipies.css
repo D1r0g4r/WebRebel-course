@@ -9,3 +9,8 @@ body {
 h2 {
     color: darkgreen;
 }
+
+img {
+    width: 500;
+    height: 500;
+}
