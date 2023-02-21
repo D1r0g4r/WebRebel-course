@@ -4,13 +4,10 @@ div {
 
 body {
     background-color: #ffcbd1;
+    background-image: url("D1r0g4r/WebRebel-course/hrnek_s_cajem.jpg)";
+    background-size: cover;
 }
 
 h2 {
     color: darkgreen;
-}
-
-img {
-    width: 500;
-    height: 500;
 }
