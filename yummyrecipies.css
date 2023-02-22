@@ -1,11 +1,10 @@
-div {
-    width: 600px;
+.recept {
+    width: 780px;
     
-;
 }
 
 body {
-    background-color: #ffcbd1;
+    background-color: #acabab;
     background-image: url("D1r0g4r/WebRebel-course/hrnek_s_cajem.jpg");
     background-size: auto;
     background-repeat: no-repeat;
