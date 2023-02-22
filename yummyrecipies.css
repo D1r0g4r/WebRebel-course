@@ -1,13 +1,25 @@
 div {
-    width: 1000px;
+    width: 600px;
+    
+;
 }
 
 body {
     background-color: #ffcbd1;
     background-image: url("D1r0g4r/WebRebel-course/hrnek_s_cajem.jpg");
-    background-size: cover;
+    background-size: auto;
+    background-repeat: no-repeat;
+    backdrop-filter: blur(5px);
 }
 
 h2 {
     color: darkgreen;
+}
+
+.priprava {
+    font-size: 50px;
+    font-family: Arial;
+    color: red;
+line-height: 1.0;
+-webkit-text-stroke: 0.5px yellow;
 }
