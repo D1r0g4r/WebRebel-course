@@ -35,6 +35,44 @@ li a {
     text-decoration: none;
 }
 
+
+li:nth-child(1) {
+    font-size: 20px;
+    font-family: Arial;
+    font-style: italic;
+    color: red;
+    text-decoration: none;
+  }
+
+  li:nth-child(2) {
+    font-size: 20px;
+    font-family: Arial;
+    font-style: italic;
+    color: blue;
+    text-decoration: none;
+  }
+
+  li:nth-child(3) {
+    font-size: 20px;
+    font-family: Arial;
+    font-style: italic;
+    color: yellow;
+    text-decoration: none;
+  }
+
+  li:nth-child(4) {
+    font-size: 20px;
+    font-family: Arial;
+    font-style: italic;
+    color: green;
+    text-decoration: none;
+  }
+
+
+
+
+
+
 .text3 {
     font-size: 25px;
     font-family: Arial;
