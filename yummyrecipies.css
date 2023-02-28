@@ -10,9 +10,12 @@ h1 {
     text-shadow: blue;   
   }
 
-h2 {
+h2 a {
+    font-family: Arial;
     color: darkgreen;
+    text-decoration: none;
 }
+
 .recept {
     width: 780px;  
 }
